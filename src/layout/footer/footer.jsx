@@ -18,7 +18,7 @@ const Footer = () => {
               width={200}
               height={200}
             />
-            <div className="icons_social">
+            <div className="icons_social d-flex align-items-center">
               <Link href="#" className="footer_icons">
                 <FaFacebook />
               </Link>
